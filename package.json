@@ -1,5 +1,5 @@
 {
-  "name": "sitedepart",
+  "name": "sitetailwind",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -19,3 +19,4 @@
     "postcss-cli": "^9.0.1"
   }
 }
+
